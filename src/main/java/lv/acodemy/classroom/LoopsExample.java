@@ -46,7 +46,5 @@ public class LoopsExample {
             i++;
         } while (i < 5);
 
-
-
     }
 }
